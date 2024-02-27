@@ -1,19 +1,18 @@
-### Olá, sou o Arisio
+![Questions Questions](https://github.com/arisioandradee/arisioandradee/assets/156484381/c08eb4b8-e391-447b-934c-d2e480a28cb2)
 
-- 🎓 Técnico em Redes de Computadores.
-- 📚 Acadêmico em Sistemas de Informação.
-- 🤓 Apaixonado por tecnologia.
+## Habilidades em desenvolvimento
+<span style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="40" />
+</span>
+<span style="display: inline-block; width: 30px; height: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="40" />
+</span>
+<span style="display: inline-block; width: 30px; height: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="40" />
+</span>
+<span style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="40" />
+</span>
 
-## Tecnologias que estou estudando:
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=gray)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=gray)
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=gray) 
-
-
-## Me encontre aqui
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=gray)](https://t.me/arisioandrad/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=gray)](https://www.linkedin.com/in/arisioandrade)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=gray)](https://www.instagram.com/arisioandrade_/)
-
-## 
-![Arisio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&layout=compact&bg_color=000000)
+##
+![Arisio GitHub stats](https://github-readme-stats.vercel.app/api?username=arisioandradee&show_icons=true&theme=transparent)
