@@ -17,7 +17,14 @@
 </span>-->
 
 ## Projetos
-[![Projeto01](https://github.com/arisioandradee/arisioandradee/assets/156484381/98012aee-2c08-4c00-8003-d6c9619b71f2)](https://github.com/arisioandradee/Sistema-Apredizagem)
+<!--
+[![Design sem nome (1)](https://github.com/arisioandradee/arisioandradee/assets/156484381/1a0e5101-d5e2-42ac-b3e1-a892307da390)](https://github.com/arisioandradee/Sistema-Apredizagem)
+![Sistema de Super](https://github.com/arisioandradee/arisioandradee/assets/156484381/10590ef2-f084-4adf-8e39-ac6d619ef457) -->
+
+<a href="https://github.com/arisioandradee/Sistema-Apredizagem">
+    <img src="https://github.com/arisioandradee/arisioandradee/assets/156484381/1a0e5101-d5e2-42ac-b3e1-a892307da390" width="200" height="200">
+</a>
+<!-- <img src="https://github.com/arisioandradee/arisioandradee/assets/156484381/10590ef2-f084-4adf-8e39-ac6d619ef457" width="200" height="200"> -->
 
 ##
 ![Arisio GitHub stats](https://github-readme-stats.vercel.app/api?username=arisioandradee&show_icons=true&theme=transparent)
