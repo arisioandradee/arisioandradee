@@ -1,4 +1,5 @@
-![Questions Questions (1)](https://github.com/arisioandradee/arisioandradee/assets/156484381/00ec45f8-1d81-4b28-b4c8-83fa7fb1a2d6)
+![new_foto](https://github.com/arisioandradee/arisioandradee/assets/156484381/0307d643-aec6-4be2-aa63-ec64eac5a3ea)
+
 
 <!--
 ## Habilidades em desenvolvimento
