@@ -34,7 +34,7 @@ Estou especialmente interessado em áreas como análise de dados e ciência de d
 </a>
 
 ## 
-  ![Arisio Graph](https://github-readme-activity-graph.vercel.app/graph?username=arisioandradee&bg_color=0D1117&color=DD6387&line=FFD700&point=533849&area=true&hide_border=true)
+  <!--![Arisio Graph](https://github-readme-activity-graph.vercel.app/graph?username=arisioandradee&bg_color=0D1117&color=DD6387&line=FFD700&point=533849&area=true&hide_border=true)-->
 
 
 
