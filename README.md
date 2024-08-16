@@ -1,25 +1,35 @@
-# Olá! 👋🏻
-Meu nome é Arisio e este é o meu perfil no GitHub! Aqui você encontrará um pouco sobre mim, meus interesses, projetos e estudos.
+<h1>👋 Olá, me chamo Arisio!</h1>
+<h3>Sou um estudante apaixonado por tecnologia</h3>
 
-## Tecnologias em Foco
 <div align="center">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">    
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
+  <img alt="Programando" width="400" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
 </div>
 
-<!--## Projetos
+<p>- 🔭 Meu último projeto foi: <a href="https://github.com/arisioandradee/Sistema-Apredizagem" target="_blank" rel="noreferrer">Sistema de Aprendizagem</a></p>
+<p>- 🌱 Atualmente estou estudando: <strong>SQL Avançado</strong></p>
+<p>- 📫 Entre em contato comigo: <strong>arisiosaf@gmail.com</strong></p>
+
 <div align="center">
-  <a href="https://github.com/arisioandradee/Sistema-Apredizagem">
-    <img src="https://github.com/arisioandradee/arisioandradee/assets/156484381/1a0e5101-d5e2-42ac-b3e1-a892307da390" width="150" height="150">
+  <h3>Linguagens e Ferramentas</h3>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-</div>-->
-
-## 
-<div align="center">
-  <!-- <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=arisioandradee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&layout=compact&langs_count=7&theme=dark"/>
-
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
 </div>
