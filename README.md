@@ -1,6 +1,4 @@
 <h1>👋 Olá, me chamo Arisio!</h1>
-<h3>Sou um estudante apaixonado por tecnologia</h3>
-
 <div align="center">
   <img alt="Programando" width="400" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
 </div>
