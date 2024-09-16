@@ -4,7 +4,7 @@
 </div>
 
 <p>- 🔭 Meu último projeto foi: <a href="https://github.com/arisioandradee/Sistema-Apredizagem" target="_blank" rel="noreferrer">Sistema de Aprendizagem</a></p>
-<p>- 🌱 Atualmente estou estudando: <strong>SQL Avançado</strong></p>
+<p>- 🌱 Atualmente estou estudando: <strong>Python</strong></p>
 <p>- 📫 Entre em contato comigo: <strong>arisiosaf@gmail.com</strong></p>
 
 <div align="center">
