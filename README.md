@@ -1,30 +1,33 @@
-<h1>👋 Olá, me chamo Arisio!</h1>
-<div align="center">
-  <img alt="Programando" width="400" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
-</div>
+<h1> 👋Olá </h1>
 
-<p>- 🔭 Meu último projeto foi: <a href="https://github.com/arisioandradee/Sistema-Apredizagem" target="_blank" rel="noreferrer">Sistema de Aprendizagem</a></p>
-<p>- 🌱 Atualmente estou estudando: <strong>Python</strong></p>
+###
+
+<p align="left">Meu nome é Arisio e sou estudante de Sistemas de Informações</p>
+
+###
+
+<h2> Sobre mim: </h2>
+<p>- 🔭 Meu projeto mais recente é: <a href="https://github.com/arisioandradee/sistema-aprendizagem" target="_blank" rel="noreferrer">Sistema de Aprendizagem - SQL </a></p>
+<p>- 🌱 Atualmente estou estudando: <a href="https://github.com/arisioandradee/javascript-avancado" target="_blank" rel="noreferrer">JavaScript</a></p>
 <p>- 📫 Entre em contato comigo: <strong>arisiosaf@gmail.com</strong></p>
 
-<div align="center">
-  <h3>Linguagens e Ferramentas</h3>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
+###
+
+<h2> Eu utilizo </h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
 </div>
+
+
