@@ -8,7 +8,7 @@
 
 <h2> Sobre mim: </h2>
 <p>- 🔭 Meu projeto mais recente é: <a href="https://github.com/arisioandradee/sistema-aprendizagem" target="_blank" rel="noreferrer">Sistema de Aprendizagem - SQL </a></p>
-<p>- 🌱 Atualmente estou estudando: <a href="https://github.com/arisioandradee/javascript-avancado" target="_blank" rel="noreferrer">JavaScript</a></p>
+<p>- 🌱 Atualmente estou estudando: <a href="https://github.com/arisioandradee/javascript-avancado" target="_blank" rel="noreferrer">Python</a></p>
 <p>- 📫 Entre em contato comigo: <strong>arisiosaf@gmail.com</strong></p>
 
 ###
