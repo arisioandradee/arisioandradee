@@ -1,5 +1,5 @@
-# Sobre Mim:
-👋  Olá! Sou um apaixonado por tecnologia e desenvolvimento de software,  tenho **21 anos** e sou um programador iniciante. Atualmente, sou acadêmico de **Sistemas de Informação** e estou sempre em busca de aprendizado.  
+# 👋 Sobre Mim:
+Sou um apaixonado por tecnologia e desenvolvimento de software,  tenho **21 anos** e sou um programador iniciante. Atualmente, sou acadêmico de **Sistemas de Informação** e estou sempre em busca de aprendizado.  
 
 ### 🚀 O que estou fazendo agora?
 - 📚 **Estudando**:  [Java](https://github.com/arisioandradee/java) | [Python](https://github.com/arisioandradee/python-avancado) | [SQL](https://github.com/arisioandradee/python-avancado)
