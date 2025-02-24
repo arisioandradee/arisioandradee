@@ -2,7 +2,7 @@
 Sou um apaixonado por tecnologia e desenvolvimento de software,  tenho **21 anos** e sou um programador iniciante. Atualmente, sou acadêmico de **Sistemas de Informação** e estou sempre em busca de aprendizado.  
 
 ### 🚀 O que estou fazendo agora?
-- 📚 **Estudando**:  [Java](https://github.com/arisioandradee/java) | [Python](https://github.com/arisioandradee/python-avancado) | [SQL](https://github.com/arisioandradee/sql-avancado)
+- 📚 **Estudando**:  [Java](https://github.com/arisioandradee/java) | [Python](https://github.com/arisioandradee/python-avancado) | [SQL](https://github.com/arisioandradee/sql-avancado) | [HTML/CSS](https://github.com/arisioandradee/html-css)
 - 🔥 **Ultimo projeto**: [Sistema de Aprendizagem - SQL](https://github.com/arisioandradee/sistema-aprendizagem)
 - 📬 **Contato**: arisiosaf@gmail.com  
 
