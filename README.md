@@ -1,27 +1,78 @@
-# 👋 Sobre Mim:
-Sou um apaixonado por tecnologia e desenvolvimento de software,  tenho **21 anos** e sou um programador iniciante. Atualmente, sou acadêmico de **Sistemas de Informação** e estou sempre em busca de aprendizado.
+# 👨🏻‍💻 Arisio Andrade
 
-### 🚀 O que estou fazendo agora?
-- 📚 **Estudando**:  [Java](https://github.com/arisioandradee/java) | [Python](https://github.com/arisioandradee/python-avancado) | [SQL](https://github.com/arisioandradee/sql-avancado) | [HTML/CSS](https://github.com/arisioandradee/html-css)
-- 🔥 **Ultimo projeto**: [Sistema de Aprendizagem - SQL](https://github.com/arisioandradee/sistema-aprendizagem)
-- 📬 **Contato**: arisiosaf@gmail.com  
+Tenho 22 anos, sou natural de Morada Nova, Ceará. Concluí o ensino médio com formação técnica em Redes de Computadores e atualmente curso Sistemas de Informação na Universidade Católica de Quixadá. Estou sempre em busca de aprendizado contínuo.
 
-# 💻 Tecnologias:
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</div>
+---
 
+### 🤖 Linguagens e Tecnologias
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arisioandradee&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" height="190px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="190px">
-</div>
+<img
+  align="left"
+  alt="HTML5"
+  title="HTML5"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
+<img
+  align="left"
+  alt="CSS3"
+  title="CSS3"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
+<img
+  align="left"
+  alt="PostgreSQL"
+  title="PostgreSQL"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+/>
+<img
+  align="left"
+  alt="Figma"
+  title="Figma"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+/>
 
-<!--✨ *Desenvolvido com 💙 por [Arisio Andrade](https://github.com/arisioandradee)*-->
+<br/><br/>
 
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="190"
+    style="padding-right: 20px;"
+    src="https://github-readme-stats.vercel.app/api?username=arisioandradee&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false"
+  />
+  <img
+    align="left"
+    alt="Top Linguagens"
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&theme=shadow_green&layout=compact&langs_count=9"
+  />
+</p>
