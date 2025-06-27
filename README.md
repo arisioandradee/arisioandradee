@@ -67,12 +67,13 @@ Tenho 22 anos, sou natural de Morada Nova, Ceará. Concluí o ensino médio com 
     alt="GitHub Stats"
     height="190"
     style="padding-right: 20px;"
-    src="https://github-readme-stats.vercel.app/api?username=arisioandradee&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=arisioandradee&theme=tokyonight&hide_border=false&include_all_commits=true"
   />
   <img
     align="left"
     alt="Top Linguagens"
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&theme=shadow_green&layout=compact&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&theme=tokyonight&layout=compact&langs_count=9&hide_border=false"
   />
 </p>
+
