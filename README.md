@@ -1,79 +1,25 @@
 # 👨🏻‍💻 Arisio Andrade
-
 Tenho 22 anos, sou natural de Morada Nova, Ceará. Concluí o ensino médio com formação técnica em Redes de Computadores e atualmente curso Sistemas de Informação na Universidade Católica de Quixadá. Estou sempre em busca de aprendizado contínuo.
 
----
 
-### 🤖 Linguagens e Tecnologias
-
-<img
-  align="left"
-  alt="HTML5"
-  title="HTML5"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>
-<img
-  align="left"
-  alt="CSS3"
-  title="CSS3"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-/>
-<img
-  align="left"
-  alt="Git"
-  title="Git"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-<img
-  align="left"
-  alt="Python"
-  title="Python"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
-<img
-  align="left"
-  alt="PostgreSQL"
-  title="PostgreSQL"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-/>
-<img
-  align="left"
-  alt="Figma"
-  title="Figma"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-/>
-
-<br/><br/>
-
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### 📊 Estatísticas
 
-<p>
+<div class="github-cards">
   <img
-    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=arisioandradee&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
     alt="GitHub Stats"
-    height="190"
-    style="padding-right: 20px;"
-    src="https://github-readme-stats.vercel.app/api?username=arisioandradee&theme=tokyonight&hide_border=false&include_all_commits=true"
   />
   <img
-    align="left"
-    alt="Top Linguagens"
-    height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&theme=tokyonight&layout=compact&langs_count=9&hide_border=false"
+    src="https://nirzak-streak-stats.vercel.app/?user=arisioandradee&theme=dark&hide_border=true"
+    alt="GitHub Streak"
   />
-</p>
+</div>
 
