@@ -1,8 +1,5 @@
 <h1 align="center">Olá, eu sou o Arisio Andrade 👨🏻‍💻</h1>
 
-<p align="center">
-  📍 Morada Nova, Ceará • 🎓 Sistemas de Informação (5/8) • 🚀 Foco: Backend e Dados. <br>
-
   Tenho 22 anos, formado em Técnico de Redes de Computadores e atualmente estou cursando Sistemas de Informação na Universidade Católica de Quixadá. Busco constantemente evoluir como desenvolvedor, com foco especial em back-end, dados e automações com Python.
 </p>
 
