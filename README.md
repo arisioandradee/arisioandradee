@@ -21,6 +21,8 @@
 
 - [**Sistema de Aprendizagem**](https://github.com/arisioandradee/sistema-aprendizagem) → Plataforma eficiente para estudantes e professores.
 - [**Nutr•IA**](https://github.com/arisioandradee/nutria-diet-planner) → Planos alimentares semanais usando Inteligência Artificial.
+- [**Help Desk**](https://github.com/arisioandradee/helpdesk-project) → Permite que técnicos e clientes interajam, possibilitando a abertura, atualização e resolução de chamados.
+
 
 ## Contato
 <p align="center">
