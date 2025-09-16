@@ -1,7 +1,7 @@
 <h2 align="left">Olá, eu sou o Arisio!</h2>
 
 <p align="left">
-  Sou Técnico de Redes de Computadores e atualmente cursando <b>Sistemas de Informação</b> na Universidade Católica de Quixadá. 
+  Sou Técnico de Redes de Computadores e atualmente cursando <b>Sistemas de Informação</b> na Universidade Católica de Quixadá.
 </p>
 
 
