@@ -1,39 +1,48 @@
-<h2 align="left">Olá, eu sou o Arisio!</h2>
+<h2 align="left">Olá, meu nome é Arisio!</h2>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+     alt="ilustração de um computador" width="300" align="right"/>
 
 <p align="left">
-  Sou Técnico de Redes de Computadores e atualmente cursando <b>Sistemas de Informação</b> na Universidade Católica de Quixadá.
+Sou técnico em Redes de Computadores e atualmente curso Sistemas de Informação. Desde cedo, desenvolvi afinidade com o back-end, em especial com as áreas de dados e automação. <br> <br> 
+Atualmente, estou aprofundando meus conhecimentos em Python, SQL, Git e frameworks como Django. <br> <br>
+Também venho estudando tecnologias de front-end para compreender melhor o funcionamento completo das aplicações web e ampliar minha capacidade de desenvolver soluções integradas e eficientes. 
 </p>
 
-
-## Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <br>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+## Minhas Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-## Projetos em Destaque
-
-- [**Sistema de Aprendizagem**](https://github.com/arisioandradee/sistema-aprendizagem) → Plataforma eficiente para estudantes e professores.
-- [**Nutr•IA**](https://github.com/arisioandradee/nutria-diet-planner) → Planos alimentares semanais usando Inteligência Artificial.
-- [**Help Desk**](https://github.com/arisioandradee/helpdesk-project) → Permite que técnicos e clientes interajam, possibilitando a abertura, atualização e resolução de chamados.
-
-
-## Contato
-<p align="center">
-  <a href="https://www.linkedin.com/in/arisioandrade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=000000"/></a>
-  <a href="mailto:arisiosaf@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logoColor=000000"/></a>
-  <a href="https://arisioandradee.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=000000"/></a>
+## Ferramentas & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisioandradee&theme=dark&hide_border=true&layout=compact" width="300"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=arisioandradee&theme=dark&hide_border=true" width="420"/>
 </p>
 
+## Contato
+<p align="left">
+  <a href="https://www.linkedin.com/in/arisioandrade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:arisiosaf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://arisioandrade.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
