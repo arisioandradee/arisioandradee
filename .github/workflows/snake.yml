@@ -22,7 +22,7 @@ jobs:
             dist/github-snake.svg?color_snake=#C48A3A&color_dots=#ebedf0,#f6e3b8,#f2c265,#c48a3a,#6b4a1e
             dist/github-snake-dark.svg?color_snake=#F2C265&color_dots=#161b22,#4a3a1c,#8a6a2e,#c48a3a,#f2c265
 
-      - uses: crazy-max/ghaction-github-pages@v3.5.0
+      - uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
